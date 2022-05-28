@@ -1,0 +1,13 @@
+
+otel_manual_instrument/manual_instrument-client/.classpath
+otel_manual_instrument/manual_instrument-client/.project
+otel_manual_instrument/manual_instrument-client/bin/
+otel_manual_instrument/manual_instrument-client/.settings/
+
+otel_manual_instrument/manual_instrument_server/.classpath
+
+otel_manual_instrument/manual_instrument_server/.project
+
+otel_manual_instrument/manual_instrument_server/bin/
+
+otel_manual_instrument/manual_instrument_server/.settings/
